@@ -22,4 +22,4 @@ RoundedWidget/
 │   └── roundedwidgetplugin.pro
 │
 └── RoundedWidget.pro        # SUBDIRS-проект
-``
+```

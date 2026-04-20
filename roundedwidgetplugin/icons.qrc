@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>roundedIcon.png</file>
+
+    </qresource>
+</RCC>
